@@ -1,8 +1,6 @@
 # How To Eikebu
 
-A wiki-style repository of info on visiting Eikebu - from logistics to lore.
-
-## Contents
+A repository of info on visiting Eikebu - from logistics to lore.
 
 1. [Overview](overview.md): all non-boat instructions
 2. [Boat](boat.md): boat & fishing instructions
@@ -12,6 +10,5 @@ A wiki-style repository of info on visiting Eikebu - from logistics to lore.
 6. [Wishlist](wishlist.md)
 
 Note: source files are hosted on GitHub: <https://github.com/EHopper/hytte/tree/main>. You can edit/add to this in the browser, but you will need a GitHub account.
-
 
 {% include image.html url="pics/hytte.jpg" description="Eikebu." %}

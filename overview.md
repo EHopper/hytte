@@ -20,7 +20,7 @@
 ## Hytte layout
 
 {% include image.html url="pics/eikebu_layout.png" description="Very approximate floorplan." %}
-Note: update floor plan [here](https://docs.google.com/presentation/d/1GnS3w3ZwJAhUoVCKrsrTRdfcdq47Z_Wrvkc5c-I2RoI/edit?usp=sharing).
+Note: floor plan created in [slides](https://docs.google.com/presentation/d/1GnS3w3ZwJAhUoVCKrsrTRdfcdq47Z_Wrvkc5c-I2RoI/edit?usp=sharing).
 
 Red boxes mark position of things you *must* unplug before leaving - the fridge and the space heater.
 
