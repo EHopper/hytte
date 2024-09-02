@@ -11,7 +11,7 @@
   * Midpunkt
   * Skjaekerhatten, if you are feeling adventurous and have plenty of recovery sodd to come back to
 
-![Skjaekerhatten - view over Skjaekervatnet, with view of Lustadvatnet in the distance under a raincloud](pics/skjaekerhatten.jpg)
+{% include image.html url="pics/skjaekerhatten.jpg" description="Skjaekerhatten - view over Skjaekervatnet, with view of Lustadvatnet in the distance under a raincloud." %}
 
 ## Maintenance
 

@@ -86,7 +86,7 @@ The toilet is equipped with
 To empty the bucket:
 
 * Dig the pit
-  * Choose a patch of ~flat ground, reasonably far from any buildings - and the well! Preferably by the fence
+  * Choose a patch of ~flat ground, reasonably far from any buildings - and the well! - preferably by the fence
   * Mark out a ~3' square
   * Remove the sod - this may be easier in 1' x 1' (x ~4" thick) chunks
   * Dig to ~18" depth
@@ -157,14 +157,17 @@ Hack for washing water: if its rainy, place buckets under roof drips in front of
 
 #### BBQ and Smoker
 
-There is a BBQ and a smoker - the smoker is a bit shit.
+
 
 #### Misc
 
+* Cooking outside
+  * BBQ, charcoal chimney, charcoal are stored in Stabur
+  * There's also a smoker - but it's a bit shit.
+  * There's a flippable grill-pan, useful for cooking fish over open fires
 * Coffee-making
   * Aeropress, cafetiere
   * Manual coffee grinder (big wooden ones)
-
 
 ## Flag
 
@@ -175,7 +178,7 @@ To hoist the flag
 * Untie the two ends of the halyard, and retie to the flag using a [sheet bend](https://www.animatedknots.com/sheet-bend-knot) or similar
   * Be careful not to lose hold of an untied end!
 * Hoist the flag
-  * If you are a proper boy scout, there is a way to do this to make it unfurl properly
+  * If you are a proper boy scout, there is a way to do this to make it unfurl gloriously
 * Secure the end with a [cleat hitch](https://www.animatedknots.com/cleat-hitch-halyard-knot)
 
 When lowering the flag, tie the two ends together with an [overhand bend](https://www.animatedknots.com/flat-overhand-bend-knot) and secure to the pole with the [cleat hitch](https://www.animatedknots.com/cleat-hitch-halyard-knot)
