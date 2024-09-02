@@ -3,7 +3,7 @@
 ## Leisure
 
 * Watch the Lustad TV
-* Watch the Lustad TV at [sunset](sunsets.html)
+* Watch the Lustad TV at [sunset](https://photos.app.goo.gl/kgLYJV5B5KMz7XfZ8)
 * Boating and fishing (see [boat](boat.md))
 * Nosing around artifacts (see [history](history.md))
 * Walks
