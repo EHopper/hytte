@@ -2,7 +2,7 @@
 
 ## Family Tree
 
-![Family Tree - incomplete](pics/family_tree.jpg)
+![family_tree](pics/family_tree.jpg "Family Tree - incomplete")
 
 ## Photos & Heirlooms
 
