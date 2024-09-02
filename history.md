@@ -2,7 +2,7 @@
 
 ## Family Tree
 
-![family_tree](pics/family_tree.jpg "Family Tree - incomplete")
+{% include image.html url="pics/family_tree.jpg" description="Family Tree - incomplete." %}
 
 ## Photos & Heirlooms
 
