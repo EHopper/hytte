@@ -1,10 +1,17 @@
-# Facilities
+# Overview
 
 ## Hytte layout
 ![Approx layout](pics/eikebu_layout.png)
-Note: floor plan is very approximate!
+Note: floor plan is very approximate - update [here](https://docs.google.com/presentation/d/1GnS3w3ZwJAhUoVCKrsrTRdfcdq47Z_Wrvkc5c-I2RoI/edit?usp=sharing).
 
 Red boxes mark position of things you *must* unplug before leaving - the fridge and the space heater.
+
+## Opening Up
+* Unlock all relevant doors (see [keys](#keys))
+* Open all the shades - be careful, they are old!
+* Plug everything in, e.g. fridge, lamps etc
+* Fill up the drinking water jug (see [water](#water))
+* Raise the flag (tie with a [cleat hitch](https://www.animatedknots.com/cleat-hitch-halyard-knot) and be careful not to )
 
 ## Keys
 * Spare key to the kitchen door kept on top of the concrete brick underneath the southeast corner of Hytte - you will need to reach under the southern wall
@@ -22,6 +29,11 @@ Red boxes mark position of things you *must* unplug before leaving - the fridge 
 * Unlock living room door from the inside
 * Store all padlock keys in Hytte while you're there!
 
+## Flag
+There's some tradition of flying a different flag on the day you arrive, and on Sundays, but that's a pain - especially if its raining. There's a penant kept rolled up on top of the medicine cabinet on the south wall of the living room.
+
+To hoist the flag
+* Untie the two ends of the halyard, and retie to the 
 
 ## Hygiene
 ### Shower
@@ -81,10 +93,10 @@ To empty the bucket:
 
 
 ## Food and Drink
-### Well
+### Water
 Typically, reserve the metal buckets for drinking (well) water, and the plastic buckets for washing (lake) water.
 
-To get water
+To get drinking water:
 * Bring out the large plastic water jug (rectangular) - stored on the southern end of the kitchen counter
 * Bring out a funnel (top part of a Solo bottle) - stored in a bucket under the stairs
 * Bring out a metal bucket - stored under the stairs
@@ -93,6 +105,8 @@ To get water
 * Lower the bucket on the pole down to the well water - to fill the bucket, you may have to swish it back and forth
 * Bring up the bucket, and pour into the water jug - it takes ~4 buckets to fill
 * Replace the lid, close the door, and rehook the pole with carabiners onto the vertical pole
+
+Hack for washing water: if its rainy, place buckets under roof drips in front of the porch - they fill up quickly!
 
 ### Mum's oven thing
 ???

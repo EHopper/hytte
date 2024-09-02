@@ -33,7 +33,7 @@ Places of Interest:
 ### Mooring by the Jetty
 * Pull the boat as far onto the beach as you can
   * Wrap the rope around your shoulders and pull backwards to maximise power
-* With the blue rope taut, tie to the white loop on the bank with two half hitches
+* With the blue rope taut, tie to the white loop on the bank with [two half hitches](https://www.animatedknots.com/two-half-hitches-knot)
 * Bring everything up to the porch to keep under cover when not in use (other than the bailing Solo bottle & the priest)
 
 ## The Motor
