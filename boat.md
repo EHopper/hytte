@@ -28,7 +28,7 @@
 
 ## Lustadvatnet
 
-{% include image.html url="pics/lustadvatnet.jpg" description="Lustadvatnet map showing rocks & points of interest." %}
+{% include image.html url="pics/lustadvatnet.png" description="Lustadvatnet map showing rocks & points of interest." %}
 
 Places of Interest:
 
@@ -159,7 +159,7 @@ Potentially useful jobs:
 * Rinse well in the lake, until it looks clean
 * If you want to eat the skin, scale the trout by running the back of the knife from tail to head
 * Line up with all other fish from this catch on the white chopping board on the porch table, position the tape measure, and take a photo for posterity
-* *Most importantly*, Take note of all statistics (number, max size, weather conditions, which hook) to record in Hyttebok
+* *Most importantly*, take note of all statistics (number, max size, weather conditions, which hook) to record in Hyttebok
 
 ## Misc
 
