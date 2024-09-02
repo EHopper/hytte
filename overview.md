@@ -33,6 +33,7 @@ These are, of course, ~equal but opposite.
   * Unplug the fridge and *leave the door open* so it doesn't get mouldy
   * Unplug the space heater (as marked on [floor plan](#hytte-layout))
   * Make sure the light in Stabur is turned off (light switch just inside door)
+* Sprinkle bark / Empty the toilet (see [toilet](#toilet))
 * Fill up / Dump all water buckets and jugs (see [water](#water))
 * Bring out / Put away the boat (see [boat](boat.md/#the-boat-shed))
 * Hoist / Lower the flag (see [flag](#flag))
@@ -45,7 +46,6 @@ These are, of course, ~equal but opposite.
 Tasks specific to closing up:
 
 * Refill the mouse poison
-* Deal with the toilet (see [toilet](#toilet))
 * Deal with the rubbish (see [rubbish](#rubbish))
 
 ## Keys
@@ -71,7 +71,7 @@ Tasks specific to closing up:
 
 #### Highly recommended
 
-* Sprinkly a layer of bark into the bucket when you first arrive to avoid later stickiness
+* Sprinkle a layer of bark into the bucket when you first arrive to avoid later stickiness
 * Don't be stingy with the bark!
 * Pee elsewhere - if you don't want to use the woods, use the Loo with a View!
 
