@@ -95,7 +95,6 @@ To empty the bucket:
   * Bring secateurs to help cut through roots
 * Grab the bucket via the flap on the western wall, and empty it into the pit
   * Helpful to prop up the flap with a useful stick
-  {% include image.html url="pics/poo_bucket_access.jpg" description="Useful stick." %}
   * If enough bark has been used, it shouldn't be too wet or smelly!
 * Fill in the pit, and replace the sod
 * Rinse out the bucket in the lake (preferably east of Hytte given the prevailing longshore drift)
