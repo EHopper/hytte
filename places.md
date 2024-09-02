@@ -2,7 +2,7 @@
 
 Useful places saved to a public [Google Maps list](https://maps.app.goo.gl/oyS9fe4c8mVieHhw9) - anyone should be able to add to it.
 
-![Welcome Map](pics/welcome_map.jpg)
+{% include image.html url="pics/welcome_map.jpg" description="Welcome Map from near Lustadstua. Note Lustadvatnet has many small and medium fish!" %}
 
 ## Lustadvatnet
 

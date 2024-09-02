@@ -19,7 +19,6 @@
   * [Gutting the Fish](#gutting-the-fish)
 * [Misc](#misc)
 
-
 ## Useful Shops
 
 * Biltema (Good for oars, rowlocks)
@@ -29,7 +28,7 @@
 
 ## Lustadvatnet
 
-![Lustadvatnet map showing rocks & points of interest](pics/lustadvatnet.png)
+{% include image.html url="pics/lustadvatnet.jpg" description="Lustadvatnet map showing rocks & points of interest." %}
 
 Places of Interest:
 
@@ -141,7 +140,7 @@ Potentially useful jobs:
 * 2024-08-19: 36.3cm trout caught by Hunter
 * July 2013: 19 trout caught in two days by Freya & Dad
 
-![Record-holding trout, August 2024 (Hunter, Emily assist)](pics/record_fish.jpg)
+{% include image.html url="pics/record_fish.jpg" description="Record-holding trout, August 2024 (Hunter, Emily assist)." %}
 
 ### Highly Reliable Advice
 
@@ -161,7 +160,6 @@ Potentially useful jobs:
 * If you want to eat the skin, scale the trout by running the back of the knife from tail to head
 * Line up with all other fish from this catch on the white chopping board on the porch table, position the tape measure, and take a photo for posterity
 * *Most importantly*, Take note of all statistics (number, max size, weather conditions, which hook) to record in Hyttebok
-
 
 ## Misc
 

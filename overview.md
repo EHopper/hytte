@@ -19,7 +19,7 @@
 
 ## Hytte layout
 
-![Approx layout](pics/eikebu_layout.png)
+{% include image.html url="pics/eikebu_layout.jpg" description="Very approximate floorplan." %}
 Note: floor plan is very approximate - update [here](https://docs.google.com/presentation/d/1GnS3w3ZwJAhUoVCKrsrTRdfcdq47Z_Wrvkc5c-I2RoI/edit?usp=sharing).
 
 Red boxes mark position of things you *must* unplug before leaving - the fridge and the space heater.
@@ -42,7 +42,7 @@ These are, of course, ~equal but opposite.
 * Make the beds / Wash (see [laundry](#laundry)), dry, and store (or take home) sheets and towels
 * Put away / Bring out the outdoor furniture to the porch
 
-![Living room, ready to leave](pics/packed.jpg)
+{% include image.html url="pics/packed.jpg" description="Living room, packed up and ready to leave." %}
 
 Tasks specific to closing up:
 
@@ -63,7 +63,7 @@ Tasks specific to closing up:
     * Door key (big key on leather thong, unlabelled) - store in Stabbur door while there
   * The paint shed key
   * Many more mystery keys
-![Important keys](pics/keys.jpg)
+  {% include image.html url="pics/keys.jpg" description="Important keys." %}
 * Unlock living room door from the inside
 * Store all padlock keys in Hytte while you're there!
 
@@ -95,7 +95,7 @@ To empty the bucket:
   * Bring secateurs to help cut through roots
 * Grab the bucket via the flap on the western wall, and empty it into the pit
   * Helpful to prop up the flap with a useful stick
-  ![image](pics/poo_bucket_access.jpg)
+  {% include image.html url="pics/poo_bucket_access.jpg" description="Useful stick." %}
   * If enough bark has been used, it shouldn't be too wet or smelly!
 * Fill in the pit, and replace the sod
 * Rinse out the bucket in the lake (preferably east of Hytte given the prevailing longshore drift)
