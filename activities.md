@@ -1,0 +1,22 @@
+# Activities
+
+## Leisure
+
+* Watch the Lustad TV
+* Watch the Lustad TV at [sunset](sunsets.html)
+* Boating and fishing (see [boat](boat.md))
+* Nosing around artifacts (see [history](history.md))
+* Walks
+  * Mokk copper mines
+  * Midpunkt
+  * Skjaekerhatten, if you are feeling adventurous and have plenty of recovery sodd to come back to
+
+![Skjaekerhatten - view over Skjaekervatnet, with view of Lustadvatnet in the distance under a raincloud](pics/skjaekerhatten.jpg)
+
+## Maintenance
+
+* Riverworks (see [notes](boat.md/#riverworks))
+* Painting, if needed
+* Clearing downed brush - have a beach bonfire!
+* Clearing trees
+* Chopping and stacking wood
