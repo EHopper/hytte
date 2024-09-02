@@ -7,20 +7,26 @@
   * +47 741 62 232; deler@steinkjermotorsenter.no
 
 ## Lustadvatnet
-[ map with rocks marked ]
+![Lustadvatnet map showing rocks & points of interest](pics/lustadvatnet.png)
+
+Places of Interest:
+1. Dam - tie up here and walk down to the gorge
+2. Litlfjorden - water lilies and dock by Lustadstua
+3. Zambezi - more water lilies, impassable by boat
 
 ## Storage
 ### The Boat Shed
-* The key to open the side door lives on the hooks in the main room (Bat)
+* The key to open the side door lives on the hooks in the main room (labelled: Bat)
 * There are two latches on the inside of the double door at the back, they can be stiff
 * Note: the stream can be very shallow!
-  * If the stream is too shallow then you can drag the boat over the shallows, best to wear wellies when launching the boat
-  * The stream is shallow then you can dig it out if you have nothing better to do
+  * If the stream is too shallow then you can drag the boat over the shallows, best to wear wellies when launching
+  * If the stream is shallow, then you can dig it out if you have nothing better to do
     * In 2024, the levee (Riverworks) had worked and so no digging was needed, but this may change year to year
-  * Transport oars,outboard motor, petrol tank and petrol hose etc separately 
+  * Transport oars,outboard motor, petrol tank and petrol hose etc separately
 * To get the boat back in the shed:
-  * Attach to the winch and slowly wind in
+  * Attach front hook to the winch and slowly wind in
   * The wire will all bunch up on one side - every so often, you should slacken off and adjust the distribution
+    * Push the ratchet switch down to allow you to unwind
   * When you get the boat nearly to the boatshed, unhook the winch and manhandle the boat to align it with the boatshed
   * Push/pull the boat into the boatshed (it may need tilting). There is a blue nylon comealong if you need help
 

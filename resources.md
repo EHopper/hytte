@@ -12,5 +12,5 @@
   * Paint (take a picture of the label of something in the paint shed)
 
 ## Transportation
-* Train runs regularly from Trondheim airport to Steinkjer (~2 hrs, ~280NOK pp single, ~5 min walk from customs)
+* Train runs regularly from Trondheim airport to Steinkjer (~2 hrs, ~280NOK pp single, ~5 min walk from passport control/customs)
 * There is a bus from Steinkjer to Gaulstad, and a schoolbus that runs further
