@@ -10,5 +10,3 @@ A repository of info on visiting Eikebu - from logistics to lore.
 6. [Wishlist](wishlist.md)
 
 {% include image.html url="pics/hytte.jpg" description="Eikebu." %}
-
-Source files are hosted on GitHub: <https://github.com/EHopper/hytte/tree/main>. You can edit/add to this in the browser, but you will need a GitHub account.
