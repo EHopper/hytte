@@ -1,6 +1,6 @@
 # How To Eikebu
 
-A repository of info on visiting Eikebu - from logistics to lore.
+A repository of info on visiting Eikebu - from logistics to lore. And butts 
 
 1. [Overview](overview.md): all non-boat instructions
 2. [Boat](boat.md): boat & fishing instructions
